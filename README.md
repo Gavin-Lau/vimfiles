@@ -1,3 +1,3 @@
 ## Vimfiles
 
-It is my vim deploy,Manage vim scripts by Bundle
+It is my vim deploy,manage vim scripts by Bundle
