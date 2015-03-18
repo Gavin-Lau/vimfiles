@@ -39,4 +39,8 @@ set softtabstop=2
 set expandtab
 set number
 syntax enable
+""solarized设置
+let g:solarized_termcolors = 256
+set background =dark
+colorscheme solarized
 filetype plugin indent on
